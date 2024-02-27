@@ -37,5 +37,5 @@ do {
 
 } catch {
       // Instructions for catch case.
-    print("Please enter a valid numeral width > 0")
+    print("Please enter a valid numeral mass > 0")
 }
