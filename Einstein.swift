@@ -1,7 +1,7 @@
 import Foundation;
 
 /**
- * My program calculates how many logs can fit on a truck.
+ * My program calculates how much energy is in an object.
  *
  * @author  Kent Gatera
  * @version 1.0
